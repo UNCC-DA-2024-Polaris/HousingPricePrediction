@@ -6,7 +6,7 @@
 
 **Members**: David Bartlett, Kyndall Kelly, Rufin Perez, Kristina Swanson, Toby Wong
 
-Requirements
+## Requirements
 Data Model Implementation (25 points)
 A Python script initializes, trains, and evaluates a model (10 points)
 
