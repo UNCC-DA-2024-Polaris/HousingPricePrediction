@@ -1,7 +1,10 @@
 # Project 4 - Demystifying Machine Learning
-Date: March 12, 2024
-Group: Polaris
-Members: David Bartlett, Kyndall Kelly, Rufin Perez, Kristina Swanson, Toby Wong
+
+**Date**: March 12, 2024
+
+**Group**: Polaris
+
+**Members**: David Bartlett, Kyndall Kelly, Rufin Perez, Kristina Swanson, Toby Wong
 
 Requirements
 Data Model Implementation (25 points)
