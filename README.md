@@ -1,7 +1,4 @@
-# HousingPricePrediction
-## Housing Price Prediction
-### Housing Price Prediction
-Project 4
+# Project 4
 
 Requirements
 Data Model Implementation (25 points)
