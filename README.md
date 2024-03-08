@@ -9,6 +9,10 @@
 ## Background
 For the final group project, our group will use our machine learning skills gained in class to analyze, solve, or visualize a topic of our choice - i.e., predicting housing prices. Specifically, predicting housing prices on different features including area, bedrooms, bathrooms, stories, mainroad, guestroom, basement, hot water heating, air conditioning, parking, preferential area, and furnishing.
 
+We began our process by creating a Python script to initialize, train, and evaluate a logical regression model with our chosen dataset. Upon the initial model evaluation not meeting the 80% R-square requirement, we performed the following improvements on the model:
+
+* Created "dummy data" based on the existing features of the dataset and then appending those records to the existing dataset in a ne
+
 ## Requirements
 
 1. Data and data delivery
@@ -21,7 +25,11 @@ For the final group project, our group will use our machine learning skills gain
 
    * We reviewed the dataset to ensure no missing fields and includes consistent datatypes.
   
-   * Performed 
+   * Created a table called, "HousingSQL", in SQL (PostgreSQL) using the Housing Price Prediction dataset.
+  
+   * Group members retrieved/extracted the HousingSQL table from SQL to use with their respective models.
+  
+   * Group membe
    
 4. Visualizations
 
