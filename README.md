@@ -21,7 +21,7 @@ We used that newly appended dataset (i.e., new csv file) to re-run in our existi
 * Random Forest Regressor
 * Gradient Boosting Regressor
 
-Based on the evaluation results of each of the models, we determined the Decision Tree model to yield the highest results with 99.39%.
+Based on each of the models' evaluation results, we determined the Decision Tree model to yield the highest result with 99.39%.
 
 
 ## Requirements
