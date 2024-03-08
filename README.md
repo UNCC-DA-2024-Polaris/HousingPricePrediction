@@ -12,14 +12,22 @@ For the final group project, our group will use our machine learning skills gain
 ## Requirements
 
 1. Data and data delivery
+
    * Obtained a housing prices dataset from Kaggle:
      - [Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction): This dataset provides key features for predicting house prices - e.g., area, bedrooms, and bathrooms, and amenities - e.g., air conditioning, parking, and furnishing status information. It enables analysis and modelling to understand the factors impacting house prices and develop accurate predictions in real estate markets.
 
-   
+
 3. Back end (ETL)
+
+   * We reviewed the dataset to ensure no missing fields and includes consistent datatypes.
+  
+   * Performed 
+   
 4. Visualizations
+
 5. Group Presentation
-6. Slide deck
+  
+7. Slide deck
 
 
 _Data Model Implementation_ (25 points)
