@@ -7,12 +7,13 @@
 **Members**: David Bartlett, Kyndall Kelly, Rufin Perez, Kristina Swanson, Toby Wong
 
 ## Background
-For the final group project, our group will use our machine learning skills gained in class to analyze, solve, or visualize a problem of our choice - i.e., predicting housing prices.
+For the final group project, our group will use our machine learning skills gained in class to analyze, solve, or visualize a topic of our choice - i.e., predicting housing prices. Specifically, predicting housing prices on different features including area, bedrooms, bathrooms, stories, mainroad, guestroom, basement, hot water heating, air conditioning, parking, preferential area, and furnishing.
 
 ## Requirements
 
 1. Data and data delivery
-   
+   * Obtained a housing prices dataset from Kaggle:
+     - [Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction): This dataset provides key features for predicting house prices - e.g., area, bedrooms, and bathrooms, and amenities - e.g., air conditioning, parking, and furnishing status information. It enables analysis and modelling to understand the factors impacting house prices and develop accurate predictions in real estate markets.
 
    
 3. Back end (ETL)
