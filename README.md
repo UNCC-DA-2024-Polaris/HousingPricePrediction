@@ -12,10 +12,13 @@ For the final group project, our group will use our machine learning skills gain
 ## Requirements
 
 1. Data and data delivery
-2. Back end (ETL)
-3. Visualizations
-4. Group Presentation
-5. Slide deck
+   
+
+   
+3. Back end (ETL)
+4. Visualizations
+5. Group Presentation
+6. Slide deck
 
 
 _Data Model Implementation_ (25 points)
