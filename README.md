@@ -12,7 +12,8 @@ For the final group project, our group will use our machine learning skills gain
 ## Requirements
 
 1. Data and data delivery
-   
+   * Obtained a housing prices dataset from Kaggle:
+     - [Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 
    
 3. Back end (ETL)
