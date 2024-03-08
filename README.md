@@ -7,9 +7,17 @@
 **Members**: David Bartlett, Kyndall Kelly, Rufin Perez, Kristina Swanson, Toby Wong
 
 ## Background
-For the final group project, our group will use our machine learning skills gained in class to analyze, solve, or visualize a problem of your choice - predicting housing prices.
+For the final group project, our group will use our machine learning skills gained in class to analyze, solve, or visualize a problem of our choice - i.e., predicting housing prices.
 
 ## Requirements
+
+1. Data and data delivery
+2. Back end (ETL)
+3. Visualizations
+4. Group Presentation
+5. Slide deck
+
+
 _Data Model Implementation_ (25 points)
 A Python script initializes, trains, and evaluates a model (10 points)
 
