@@ -12,9 +12,11 @@ For the final group project, our group will use our machine learning skills gain
 We began our process by creating a Python script to initialize, train, and evaluate regression models with our chosen dataset. Upon the initial model evaluations not meeting the 80% R-square requirement, we performed the following improvements:
 
 * Created "dummy data" based on the existing features of the dataset
+
 * Appended those dummy data records to the existing dataset and saved to a new csv file
 
 We used that newly appended dataset (i.e., new csv file) to re-run in our existing Python script which resulted in achieving the 80% R-square requirement. However, our group decided to select several other models using the appended dataset to determine if we could find a better R-square score. We chose the following models:
+
 
 
 ## Requirements
