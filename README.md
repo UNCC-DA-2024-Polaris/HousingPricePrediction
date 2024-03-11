@@ -33,21 +33,32 @@ Based on each of the models' evaluation results, we determined the Decision Tree
      - [Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction): This dataset provides key features for predicting house prices - e.g., area, bedrooms, and bathrooms, and amenities - e.g., air conditioning, parking, and furnishing status information. It enables analysis and modelling to understand the factors impacting house prices and develop accurate predictions in real estate markets.
 
 
-3. Back end (ETL)
+2. Back end (ETL)
 
-   * We reviewed the dataset to ensure no missing fields and includes consistent datatypes.
+   * Reviewed the dataset to ensure no missing fields and that it included consistent datatypes.
+  
+   * Preprocessed the categorical data in the DataFrame using "pd.get_dummies()" to convert the categorical variables into binary form for the model to perform better predictions
+  
+   * Preprocessed the numerical data in the DataFrame using the "StandardScaler()" to prepares the training and test datasets for the models by scaling the data to have a mean of zero and a standard deviation of one, which also improves model performance.
   
    * Created a table called, "HousingSQL", in SQL (PostgreSQL) using the Housing Price Prediction dataset.
   
-   * Group members retrieved/extracted the HousingSQL table from SQL to use with their respective models.
-  
-   * Group membe
+   * Group members retrieved/extracted/exported the HousingSQL table from SQL to use with their respective models (during the exploratory phase of the project).
    
 4. Visualizations
 
 5. Group Presentation
   
 7. Slide deck
+
+
+
+
+
+
+
+
+
 
 
 _Data Model Implementation_ (25 points)
