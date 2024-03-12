@@ -23,7 +23,7 @@ We used that new csv file to re-run our existing Python script which resulted in
 * Random Forest Regressor
 * Gradient Boosting Regressor
 
-Based on each of the models' evaluation results, we determined the Decision Tree model to yield the highest result with 99.39%.**[NEED TO CONFIRM]**
+Based on each of the models' evaluation results, we determined the Decision Tree model to yield the highest result with an R-square of 99.39%.**[NEED TO CONFIRM]**
 
 ## Requirements
 
