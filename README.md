@@ -27,13 +27,13 @@ Based on each of the models' evaluation results, we determined the Decision Tree
 
 ## Requirements
 
-1. Data and data delivery
+1. **Data and data delivery**
 
    * Obtained a housing prices dataset from Kaggle:
      - [Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction): This dataset provides key features for predicting house prices - e.g., area, bedrooms, and bathrooms, and amenities - e.g., air conditioning, parking, and furnishing status information. It enables analysis and modelling to understand the factors impacting house prices and develop accurate predictions in real estate markets.
 
 
-2. Back end (ETL)
+2. **Back end (ETL)**
 
    * Reviewed the dataset to ensure no missing fields and that it included consistent datatypes.
   
@@ -45,9 +45,17 @@ Based on each of the models' evaluation results, we determined the Decision Tree
   
    * Group members retrieved/extracted/exported the HousingSQL table from SQL to use with their respective models (during the exploratory phase of the project).
    
-4. Visualizations
+4. **Visualization**
 
-5. Group Presentation
+   Based on our group's decision for choosing the Decision Tree model, we prepared a visualization of the resulting Decision Tree. However, due to the graphic being too large, we present two snippets of the full image for reference.
+
+   ![DecisionTreeSnippet1](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTreeSnippet1.png)
+
+   
+
+   
+
+6. Group Presentation
   
 7. Slide deck
 
