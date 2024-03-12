@@ -42,7 +42,7 @@ Based on each of the models' evaluation results, we determined the Decision Tree
   
    * Preprocessed the numerical data in the DataFrame using the "StandardScaler()" to prepares the training and test datasets for the models by scaling the data to have a mean of zero and a standard deviation of one, which also improves model performance.
   
-   * Created a table called, "HousingSQL", in SQL (PostgreSQL) using the Housing Price Prediction dataset.
+   * Created a table called, "HousingSQL", in SQL (PostgreSQL) using the [Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction) dataset.
   
    * Group members retrieved/extracted/exported the HousingSQL table from SQL to use with their respective models (during the exploratory phase of the project).
    
