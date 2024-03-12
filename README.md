@@ -53,6 +53,7 @@ Based on each of the models' evaluation results, we determined the Decision Tree
 
    ![DecisionTreeSnippet2](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTreeSnippet2.png)
 
+**NOTE**: Please refer to ["DecisionTree Viz.png](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTree%20Viz.png) for the full visualization of the Decision Tree. 
    
 
    
