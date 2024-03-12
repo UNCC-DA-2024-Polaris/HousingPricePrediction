@@ -18,12 +18,12 @@ We began our process by creating a Python script to initialize, train, and evalu
 
 We used that new csv file to re-run our existing Python script which resulted in achieving the 80% R-square requirement. However, our group decided to explore other models using the new csv file to determine if we could achieve and even better R-square score. We chose the following models:
 
-* ADA Boost Classifier
-* Decision Tree
+* ADA Boost Classifier: 
+* Decision Tree: 
 * Random Forest Regressor
 * Gradient Boosting Regressor
 
-Based on each of the models' evaluation results, we determined the Decision Tree model to yield the highest result with 99.39%.
+Based on each of the models' evaluation results, we determined the Decision Tree model to yield the highest result with 99.39%.**[NEED TO CONFIRM]**
 
 ## Requirements
 
@@ -36,7 +36,7 @@ Based on each of the models' evaluation results, we determined the Decision Tree
 
 2. **Back end (ETL)**
 
-   * Reviewed the dataset to ensure no missing fields and that it included consistent datatypes.
+   * Reviewed and cleaned the dataset to ensure no missing fields and that it included consistent datatypes.
   
    * Preprocessed the categorical data in the DataFrame using "pd.get_dummies()" to convert the categorical variables into binary form for the model to perform better predictions
   
@@ -48,17 +48,14 @@ Based on each of the models' evaluation results, we determined the Decision Tree
    
 4. **Visualization**
 
-   Based on our group's decision for choosing the Decision Tree model, we prepared a visualization of the resulting Decision Tree. However, due to the graphic being too large, we present two snippets of the full image for reference.
+   Based on our group's decision for choosing the Decision Tree model, we prepared a visualization of the resulting Decision Tree. However, due to the graphic being too large, we present the following two snippets of the full image for reference.
 
    ![DecisionTreeSnippet1](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTreeSnippet1.png)
 
    ![DecisionTreeSnippet2](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTreeSnippet2.png)
 
-   **NOTE**: Please refer to ["DecisionTree Viz.png"](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTree%20Viz.png) for the full visualization of the Decision Tree. 
+   **NOTE**: Please refer to ["DecisionTree Viz.png"](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTree%20Viz.png) for the full visualization of the Decision Tree.
    
-
-   
-
 6. Group Presentation
   
 7. Slide deck
