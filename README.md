@@ -31,6 +31,8 @@ Based on each of the models' evaluation results, we determined the Decision Tree
 
    * Obtained a housing prices dataset from Kaggle:
      - [Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction): This dataset provides key features for predicting house prices - e.g., area, bedrooms, and bathrooms, and amenities - e.g., air conditioning, parking, and furnishing status information. It enables analysis and modelling to understand the factors impacting house prices and develop accurate predictions in real estate markets.
+  
+   * Used Python scripts found in ["main.ipynb"](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/main.ipynb) and ["HousingPriceProjectModel_DecisionTree.ipynb"](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/main.ipynb)
 
 
 2. **Back end (ETL)**
@@ -53,7 +55,7 @@ Based on each of the models' evaluation results, we determined the Decision Tree
 
    ![DecisionTreeSnippet2](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTreeSnippet2.png)
 
-   **NOTE**: Please refer to ["DecisionTree Viz.png](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTree%20Viz.png) for the full visualization of the Decision Tree. 
+   **NOTE**: Please refer to ["DecisionTree Viz.png"](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTree%20Viz.png) for the full visualization of the Decision Tree. 
    
 
    
