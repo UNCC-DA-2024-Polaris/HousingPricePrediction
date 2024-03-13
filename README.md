@@ -58,7 +58,7 @@ Based on each of the models' evaluation results, we determined the Decision Tree
 
    ![DecisionTreeSnippet2](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/Images/DecisionTreeSnippet2.png)
 
-   **NOTE**: Please refer to ["DecisionTree Viz.png"](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTree%20Viz.png) for the full visualization of the Decision Tree.
+   **NOTE**: Please refer to ["DecisionTree Viz.png"](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/Images/DecisionTree%20Viz.png) for the full visualization of the Decision Tree.
    
 4. Group Presentation and 5. Slide Deck
    Our group presented our model results during class presentation on 3/12/24. Please refer to our presentation slide deck at: [Project 4 - Polaris.pdf](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/Project%204%20-%20Polaris.pdf).  
