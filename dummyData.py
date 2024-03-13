@@ -1,10 +1,10 @@
 import random
 
-def generate_fake_data(n):
-    fake_data = []
+def generate_dummy_data(n):
+    dummyData = []
     gen_data = {
-        "price": random.randint(175000, 1500000),
-        "area": random.randint(1650, 17000),
+        "price": [175000, 200000, 225000, 250000, 275000, 30000, 325000, 350000, 475000, 500000, 525000, 550000, 575000, 600000],
+        "area": [1650, 2000, 2500, 3500, 4000, 4500, 6500, 7000, 7500, 9000, 9500, 11000, 11500, 12000, 12500, 14000, 14500, 15000],
         "bedrooms": [1,2,3,4,5],
         "bathrooms": [1,2,3,4],
         "stories": [1,2,3,4],
@@ -21,12 +21,8 @@ def generate_fake_data(n):
     for _ in range(n):
         house = {}
         for key, value in gen_data.items():
-            if isinstance(value, list):
-                house[key] = random.choice(value)
-            else:
-                house[key] = value
-        fake_data.append(house)
+            house[key] = random.choice(value)
 
-    return fake_data
+        dummyData.append(house)
 
-print(generate_fake_data(10))
+    return dummyData
