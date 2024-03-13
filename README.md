@@ -46,72 +46,24 @@ Based on each of the models' evaluation results, we determined the Decision Tree
   
    * Group members retrieved/extracted/exported the HousingSQL table from SQL to use with their respective models (during the exploratory phase of the project).
    
-4. **Visualization**
+3. **Visualization**
 
    Based on our group's decision for choosing the Decision Tree model, we prepared a visualization of the resulting Decision Tree. However, due to the graphic being too large, we present the following two snippets of the full image for reference.
 
-   ![DecisionTreeSnippet1](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTreeSnippet1.png)
+   ![DecisionTreeSnippet1](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/Images/DecisionTreeSnippet1.png)
 
-   ![DecisionTreeSnippet2](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTreeSnippet2.png)
+   ![DecisionTreeSnippet2](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/Images/DecisionTreeSnippet2.png)
 
    **NOTE**: Please refer to ["DecisionTree Viz.png"](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTree%20Viz.png) for the full visualization of the Decision Tree.
    
-5. Group Presentation and Slide Deck
-   Our group presented our model results during class presentation on 3/12/24. Please refer to our presentation slide deck at: Project 4 - Polaris.pdf  
+4. Group Presentation and 5. Slide Deck
+   Our group presented our model results during class presentation on 3/12/24. Please refer to our presentation slide deck at: [Project 4 - Polaris.pdf](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/Project%204%20-%20Polaris.pdf).  
 
+## Sources and References
 
+* Housing Price Prediction by Harish Kumardatalab
+[https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 
-Housing Price Prediction by Harish Kumardatalab
-https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+* [https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
 
-https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
-
-https://deepai.org/machine-learning-glossary-and-terms/dummy-variable#:~:text=Dummy%20variables%20are%20binary%20
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-_Data Model Implementation_ (25 points)
-
-* A Python script initializes, trains, and evaluates a model (10 points)
-
-* The data is cleaned, normalized, and standardized prior to modeling (5 points)
-
-* The model utilizes data retrieved from SQL or Spark (5 points)
-
-* The model demonstrates meaningful predictive power at least 75% classification accuracy or 0.80 R-squared. (5 points)
-
-_Data Model Optimization_ (25 points)
-
-* The model optimization and evaluation process showing iterative changes made to the model and the resulting changes in model performance is documented in either a CSV/Excel table or in the Python script itself (15 points)
-
-* Overall model performance is printed or displayed at the end of the script (10 points)
-
-_GitHub Documentation_ (25 points)
-
-* GitHub repository is free of unnecessary files and folders and has an appropriate .gitignore in use (10 points)
-
-* The README is customized as a polished presentation of the content of the project (15 points)
-
-_Group Presentation_ (25 points)
-
-* All group members speak during the presentation. (5 points)
-  
-* Content, transitions, and conclusions flow smoothly within any time restrictions. (5 points)
-
-* The content is relevant to the project. (10 points)
-
-* The presentation maintains audience interest. (5 points)
+* [https://deepai.org/machine-learning-glossary-and-terms/dummy-variable#:~:text=Dummy%20variables%20are%20binary%20](https://deepai.org/machine-learning-glossary-and-terms/dummy-variable#:~:text=Dummy%20variables%20are%20binary%20)
