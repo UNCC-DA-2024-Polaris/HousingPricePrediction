@@ -1,5 +1,3 @@
-# IN PROGRESS
-
 # Project 4 - Demystifying Machine Learning
 
 **Date**: March 12, 2024
