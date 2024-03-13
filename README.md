@@ -23,7 +23,7 @@ We used that new csv file to re-run our existing Python script which resulted in
 * Random Forest Regressor
 * Gradient Boosting Regressor
 
-Based on each of the models' evaluation results, we determined the Decision Tree model to yield the highest result with an R-square of 99.39%.**[NEED TO CONFIRM]**
+Based on each of the models' evaluation results, we determined the Decision Tree model to yield the highest result with an R-square of 92.49%.**[NEED TO CONFIRM]**
 
 ## Requirements
 
@@ -57,7 +57,7 @@ Based on each of the models' evaluation results, we determined the Decision Tree
    **NOTE**: Please refer to ["DecisionTree Viz.png"](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/DecisionTree%20Viz.png) for the full visualization of the Decision Tree.
    
 5. Group Presentation
-  
+   Our group prepared a presentation slide. Please see Google 
 6. Slide deck
 
 
