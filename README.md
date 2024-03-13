@@ -9,10 +9,10 @@
 ## Background
 For the final group project, our group will use our machine learning skills gained in class to analyze, solve, or visualize a topic of our choice - i.e., predicting housing prices. Specifically, predicting housing prices on different features including area, bedrooms, bathrooms, stories, mainroad, guestroom, basement, hot water heating, air conditioning, parking, preferential area, and furnishing.
 
-We began our process by creating a Python script to initialize, train, and evaluate regression models with our chosen dataset ([Housing.csv](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/resources/Housing.csv). Upon the initial model evaluations not meeting the 80% R-square requirement, we performed the following improvements:
+We began our process by creating a Python script to initialize, train, and evaluate regression models with our chosen dataset ([Housing.csv](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/resources/Housing.csv)). Upon the initial model evaluations not meeting the 80% R-square requirement, we performed the following improvements:
 
 * Created "dummy data" based on the existing features of the dataset.
-* Appended the dummy data records to the existing dataset and saved to a new csv file ([HousingSQL.csv](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/resources/HousingSQL.csv).
+* Appended the dummy data records to the existing dataset and saved to a new csv file ([HousingSQL.csv](https://github.com/UNCC-DA-2024-Polaris/HousingPricePrediction/blob/main/resources/HousingSQL.csv)).
 
 We used that new csv file to re-run our existing Python script which resulted in achieving the 80% R-square requirement. However, our group decided to explore other models using the new csv file to determine if we could achieve and even better R-square score. We chose the following models:
 
