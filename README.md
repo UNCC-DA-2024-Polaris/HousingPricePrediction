@@ -16,8 +16,8 @@ We began our process by creating a Python script to initialize, train, and evalu
 
 We used that new csv file to re-run our existing Python script which resulted in achieving the 80% R-square requirement. However, our group decided to explore other models using the new csv file to determine if we could achieve and even better R-square score. We chose the following models:
 
-* ADA Boost Classifier: 
-* Decision Tree: 
+* ADA Boost Classifier
+* Decision Tree
 * Random Forest Regressor
 * Gradient Boosting Regressor
 
