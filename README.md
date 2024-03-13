@@ -16,12 +16,16 @@ We began our process by creating a Python script to initialize, train, and evalu
 
 We used that new csv file to re-run our existing Python script which resulted in achieving the 80% R-square requirement. However, our group decided to explore other models using the new csv file to determine if we could achieve and even better R-square score. We chose the following models:
 
-* ADA Boost Classifier
-* Decision Tree
-* Random Forest Regressor
-* Gradient Boosting Regressor
+* Ridge Regression
+* Lasso Regression
+* Linear Regression
+* Elastic Net Regression
+* Ada Boost Classifier
+* Gradient Boost Regressor
+* Random Forest Regression
+* Decision Tree Regression
 
-Based on each of the models' evaluation results, we determined the Decision Tree model to yield the highest result with an R-square of 92.49%.
+Based on each of the models' evaluation results, we determined the Decision Tree Regression model to yield the highest result with an R-square of 92.49%.
 
 ## Requirements
 
@@ -39,6 +43,8 @@ Based on each of the models' evaluation results, we determined the Decision Tree
    * Preprocessed the categorical data in the DataFrame using "pd.get_dummies()" to convert the categorical variables into binary form for the model to perform better predictions
   
    * Preprocessed the numerical data in the DataFrame using the "StandardScaler()" to prepares the training and test datasets for the models by scaling the data to have a mean of zero and a standard deviation of one, which also improves model performance.
+  
+   * We used “dummyData.py” to generate additional rows based on the existing parameters of the original dataset, to keep the data proportioned and varied, including reducing the impact of outliers. We then concatenated the original ‘df’ and ‘dummy_df’ which increased the dataset from 545 rows to 80,545 rows.
   
    * Created a table called, "HousingSQL", in SQL (PostgreSQL) using the [Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction) dataset.
   
